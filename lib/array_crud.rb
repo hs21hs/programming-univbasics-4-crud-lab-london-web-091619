@@ -1,4 +1,5 @@
-def create_an_empty_array=[]
+def create_an_empty_array
+  [5,6,7,8]
   
 end
 
